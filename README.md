@@ -11,6 +11,7 @@
 
 ### Bad design by
  Jon Kreuzer
+ 
  Andre Gratto
 
 ### Programming by
@@ -24,13 +25,14 @@
 
 ### Art by
  Josh Hess
+ 
  Jon Kreuzer
 
 ### Bad sound by
  Jon Kreuzer
 
 ### Produced by
-Kreuzer Industries
+ Kreuzer Industries
 
 This game took 4 months and costed
 $10.50 to create. We may never be

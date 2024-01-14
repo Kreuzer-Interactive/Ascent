@@ -10,8 +10,7 @@
   Andre Gratto
 
 ### Bad design by
- Jon Kreuzer
- 
+ Jon Kreuzer  
  Andre Gratto
 
 ### Programming by
@@ -24,8 +23,7 @@
  Jon Kreuzer
 
 ### Art by
- Josh Hess
- 
+ Josh Hess  
  Jon Kreuzer
 
 ### Bad sound by

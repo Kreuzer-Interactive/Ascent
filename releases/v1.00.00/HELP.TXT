@@ -1,0 +1,125 @@
+Version: AOL 1.##
+Requirements: Processor- 386 33 Mhz or above. It will run on slower computers
+but it might be painfully slow. VGA monitor, and 1.4 megabytes of hard-disk
+space. As for RAM it only requires 356K or so, so don't worry about it.
+
+As you find your way up through miles of winding tunnels you will find
+it useful to know how to move.
+
+Here's how:
+(Using the numeric keypad or the arrows)
+
+	8 = forward
+	4 = 90 degree turn to the left
+	6 = 90 degree turn to the right
+	
+Simple. Very simple
+
+  When you encounter a Gnome here's how to fight:
+  Use your mouse to point to the target and fire with the 8 key.
+  The weapon that is selected in your inventory will be fired.
+
+  The 2 key will be defend against a gnome's attack.
+
+  To attack and defend you can use the left and right mouse buttons
+  respectively, but using the keyboard is suggested.
+
+  Some traps need to be shot down, some need to be blocked by merely
+  placing your cursor over them right before they explode. There is NO need
+  to hit the 2 key to defend against those traps.
+
+Commands:
+	To click on anything on the screen use the 2 key, or the left-mouse
+	button.
+
+	The M button will display the map.
+	The map shows all the places that you have been.
+	The map will disappear if you hit a key
+
+	When the map is not on the screen the inventory will be.
+	From there you can select your weapon and other items that you may
+	need. (Note: When you select your weapon during combat, the new 
+	selected weapon is not highlighted)
+
+	Clicking on the Q button will quit the game
+
+	Clicking on the R button will restart the game
+
+	Clicking on the S will save the game, but will only save
+	your position at the BEGINNING of the level. If you are
+	halfway through, you will start in the beginning position
+	again. However you will have all your items.
+
+	Clicking on the L will load a previously saved game.
+
+	Clicking on the CP will allow you to enter the copy protection
+	that will allow you to continue past the seventh level of the
+	game. To recieve your number send a donation of $5 to $10 to:
+
+
+Life & Ammo bars:
+
+There are two bars at the bottom of the screen. The lower one is your
+life, and if the bar completely disappears you will die. The upper one
+is your ammo. In combat when you use ammo your ammo it shortens, until
+it disappears when you are completely drained of ammo.
+
+Donating for the longer final 13 levels & hint guide:
+
+Kreuzer Industries
+72 Hale Road
+Canton, NY 13617
+
+Include the money, your name, and your game number. If for any reason you 
+lose the number we return, and you have previously sent us the $5 to $10
+dollars, send a letter including your name and game number and we will send
+you the answer number free.
+
+With this donation you will not only be able to play the last 2/3rds of the 
+game that include new levels and enemies, you will also be able to use the 
+complete hint guide and the cheat codes. You can check your number and send 
+it in any time using the CP button.
+
+These are the Weapons that you can find in the maze.
+Ammo refills are in chests.
+
+Weapon #1
+  Your starting weapon.  Not to powerful or fast firing, altogether kinda
+  sad. At least you don't have to worry about ammunition.
+  Name: Sling
+  Ammo refills: none
+  Damage:  1
+  Speed: 1 
+  
+Weapon #2
+  Not your the best weapon, but at least you can use something other than 
+  that sling!
+   Name: Pistol
+   Ammo Refill: 6
+   Damage: 2
+   Speed:.5
+
+
+Weapon #3
+   Shoot your enemy a few times with this, and he's bound to die.
+   Name:  .45 Pistol
+   Ammo Refill: 6
+   Damage: 3
+   Speed:.5
+
+Weapon  #4
+  Reloading is slower than molasses, but then molasses could never blow apart
+  a brick wall, and who says your going to need to reload?
+  Name: Shotgun
+  Ammo refills: 2/5
+  Damage: 5
+  Speed: 2 
+
+Weapon  #5
+  This gun eats a ton of ammo, but its a nice trade-off since it spits it
+  through your opponent tearing him to shreds before he can even lift
+  a finger, let alone a sword.
+  Name: Gatling Gun
+  Ammo refills: 10
+  Damage: 2
+  Speed .1
